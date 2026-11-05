@@ -13,7 +13,6 @@ Apart from my technical skill, i have the natural instinct of asking valuable qu
 * [Skills & Tools](#%EF%B8%8F-skills--tools) 
 * [Contacts](#-lets-connect)
 
-* [🤝 Let's Connect]()
 ## 📊 Featured Projects
 
 ### 1. Bellabeat Activity Analysis
