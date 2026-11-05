@@ -9,9 +9,9 @@ I have included in this portfolio different projects that reflects my data analy
 Apart from my technical skill, i have the natural instinct of asking valuable question and investigative abilities. I am able to approach datasets with a curious mindset and identify patterns and trends to make meaningful decisions
 
 **Table of Contents
-* [Featured Projects](#featured-projects)
-* [Skills & Tools](#skills-&-tools)
-* [Contacts](#let's-Connect)
+* [Featured Projects](#-featured-projects)
+* [Skills & Tools](#-skills-&-tools)
+* [Contacts](#-let's-Connect)
 
 ## 📊 Featured Projects
 
@@ -59,5 +59,6 @@ Working with SQL-based analytical workflows, data transformations, and data ware
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sodiq-mustapha-286937274/)
 - **GitHub:** [Explore my repositories](https://github.com/mustaphasodiq95-dev)
+- **Email:** [Mail](mustaphasodiq95@gmail.com)
 
-I'm interested in opportunities involving data analysis, data quality, operational reporting, and business intelligence.
+I'm interested in opportunities involving data analysis, data quality, operational reporting, and business intelligence. Looking forward to work with you.
