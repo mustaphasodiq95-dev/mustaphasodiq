@@ -1,4 +1,4 @@
-# Hi, I'm Sodiq 👋
+# DATA ANALYSIS PORTFOLIO 
 
 ### Data Analyst | Data Quality | Operational Reporting
 
