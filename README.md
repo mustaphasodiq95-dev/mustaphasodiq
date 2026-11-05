@@ -10,9 +10,10 @@ Apart from my technical skill, i have the natural instinct of asking valuable qu
 
 **Table of Contents
 * [Featured Projects](#-featured-projects)
-* [Skills & Tools](#-skills-&-tools)
-* [Contacts](#-let's-Connect)
+* [Skills & Tools](#%EF%B8%8F-skills--tools) 
+* [Contacts](#-lets-connect)
 
+* [🤝 Let's Connect]()
 ## 📊 Featured Projects
 
 ### 1. Bellabeat Activity Analysis
@@ -59,6 +60,6 @@ Working with SQL-based analytical workflows, data transformations, and data ware
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sodiq-mustapha-286937274/)
 - **GitHub:** [Explore my repositories](https://github.com/mustaphasodiq95-dev)
-- **Email:** [Mail](mustaphasodiq95@gmail.com)
+- **Email:** mustaphasodiq95@gmail.com
 
 I'm interested in opportunities involving data analysis, data quality, operational reporting, and business intelligence. Looking forward to work with you.
