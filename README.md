@@ -2,7 +2,7 @@
 
 ### Data Analyst | Data Quality | Operational Reporting
 
-I'm a data analyst with experience in data analysis, data validation, operational reporting and process improvement. I am adept at using Excel, Tableau, Power BI, Google sheets, SQL and Python for analyzing data, report writing and building meaningful dashboards
+I'm a data analyst with experience in data analysis, data quality checks, operational reporting and process improvement. I am adept at using Excel, Tableau, Power BI, Google sheets, SQL and Python for analyzing data, report writing and building meaningful dashboards
 
 I have included in this portfolio different projects that reflects my data analysis skills. You will find links to the various works i have done using one of or combination of excel, tableau, PowerBI. I have also included work that demonstrates my ability in querying language like SQL and programming language like python. I'm continuing to develop my analytical skills through hands-on projects, with a focus on using SQL to investigate data and Python to expand my data analysis capabilities.
 
@@ -39,14 +39,14 @@ Working with SQL-based analytical workflows, data transformations, and data ware
 
 [View Repository](https://github.com/mustaphasodiq95-dev/S_Q_L-Data_Engineering-Analytics-Projects)
 
-## 🎯 Current Learning Focus
+##  Current Learning Focus
 
 - Strengthening SQL through increasingly challenging analytical problems.
 - Developing Python skills for data cleaning, manipulation, and analysis.
 - Improving data storytelling and visualisation.
 - Building reproducible projects with clear documentation and evidence-based conclusions.
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 - **SQL:** Joins, aggregations, CTEs, filtering, data analysis, and query-based problem-solving.
 - **Microsoft Excel:** Data cleaning, validation, reporting, and analysis.
@@ -55,7 +55,7 @@ Working with SQL-based analytical workflows, data transformations, and data ware
 - **Data Quality:** Record reconciliation, duplicate detection, discrepancy investigation, and validation.
 - **Data Collection:** SurveyCTO, ODK Collect, Kobo Collect, CarbonHQ, Salesforce 
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sodiq-mustapha-286937274/)
 - **GitHub:** [Explore my repositories](https://github.com/mustaphasodiq95-dev)
